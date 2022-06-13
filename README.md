@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Matheus👋
+---
+An aspiring fullstack web developer living in Brazil.
+I ♥ linux.
 
-<!--
-**navistonks/navistonks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building a personal budget app.
+- 🌱 I’m currently learning **React**
 
-Here are some ideas to get you started:
+## Languages I Know
+My favorite one is Typescript 😛
+- Javascript / Typescript
+- Python
+- Go
+## What I want to learn in 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Frontend Development
+- Web3 Development
+- 3D Modelling
