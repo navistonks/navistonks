@@ -1,17 +1,17 @@
 ### Hi, I'm Matheus👋
 ---
-An aspiring fullstack web developer living in Brazil.
-I ♥ linux.
+A crypto enthusiast and software engineer.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web3**
 
 ## Languages I Know
-My favorite one is Typescript 😛
+
 - Javascript / Typescript
 - Python
+- Solidity
 - Go
-## What I want to learn in 2022
 
+## What I want to learn in 2022
 
 - Frontend Development
 - Web3 Development
