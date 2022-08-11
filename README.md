@@ -1,8 +1,12 @@
 # Hello there!
-![Navier's GitHub stats](https://github-readme-stats.vercel.app/api?username=navistonks&show_icons=true&theme=tokyonight)
+![Navier's GitHub stats](https://github-readme-stats.vercel.app/api?username=navistonks&show_icons=true&theme=tokyonight&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navistonks&theme=tokyonight&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## About Me
+- Passionate about building things
+- Interested in Web3.0
+- Hobbies: Programming, reading, gaming, manga.
 
-I'm a self-taught fullstack developer.
 ## Tech I know
 **Favorites**
 
@@ -38,7 +42,3 @@ I'm a self-taught fullstack developer.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-## About Me
-- Passionate about building things
-- Interested in Web3.0
-- Hobbies: Programming, reading, gaming, manga.
