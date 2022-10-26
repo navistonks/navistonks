@@ -3,9 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navistonks&theme=tokyonight&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
-- Passionate about building things
-- Interested in Web3.0
-- Hobbies: Programming, reading, gaming, manga.
+- Passionate about web3
+- Hobbies: Programming, reading
 
 ## Tech I know
 **Favorites**
