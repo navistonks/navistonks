@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/navistonks/github-stats/master/generated/overview.svg)
+Not much to see here... For now 👀.
